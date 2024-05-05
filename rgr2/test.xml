@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<datasheet>
+    <data date="1">
+        <x>1.0</x>
+        <y>1.0</y>
+    </data>
+    <data date="3">
+        <x>3.0</x>
+        <y>3.0</y>
+    </data>
+    <data date="5">
+        <x>5.0</x>
+        <y>5.0</y>
+    </data>
+    <k>0.0</k>
+    <b>0.0</b>
+</datasheet>
